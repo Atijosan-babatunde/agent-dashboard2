@@ -128,8 +128,8 @@ export function NewClientRegBody(){
                 </div>
           </div>
           <div class=" text-end" style={{margin: '20px'}}>
-            <button style={{padding: '10px 20px', margin: '20px', color: '#fff'}}  class="btn btn-orange nexttab" type="button"><a style={{color: '#fff'}} href="/newclient">Go Back</a></button>
-            <button style={{padding: '10px 20px', margin: '20px', color: '#fff'}}  type="button" class="btn nexttab btn-outline-orange"><a style={{color: '#fff'}} href="/social">Continue</a></button>
+            <button style={{padding: '10px 20px', margin: '20px', color: '#fff'}}  class="btn btn-orange nexttab" type="button"><Link style={{color: '#fff'}} to="/newclient">Go Back</Link></button>
+            <button style={{padding: '10px 20px', margin: '20px', color: '#fff'}}  type="button" class="btn nexttab btn-outline-orange"><Link style={{color: '#fff'}} to="/social">Continue</Link></button>
                 
         </div>
         </div>
