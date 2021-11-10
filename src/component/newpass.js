@@ -5,7 +5,7 @@ import "./forget.css";
 
 export function NewPassBody(){
     return(
-        <div class="mainn" style={{width: '100%', display: 'flex'}}>
+        <div class="mainn" style={{width: '100%', display: 'flex', background:'#fff'}}>
         <div class="side-image"></div>
         <div class="right">
           <div class="rightCap">

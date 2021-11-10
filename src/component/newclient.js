@@ -121,7 +121,7 @@ export function NewClientBody(){
                       </div>
                           
                   </div>
-                  <button class="text-end"><a style={{color: '#fff'}} href="/newclientreg">continue</a></button>
+                  <button class="grow text-end"><Link style={{color: '#fff'}} to="/newclientreg">continue</Link></button>
               </div>
             </div>
           </div>
