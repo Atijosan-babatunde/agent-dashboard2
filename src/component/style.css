@@ -1444,4 +1444,11 @@ i.fas.fa-check {
   }
 }
 
+@media screen and (max-width:536px){
+   table th:nth-child(2),
+   table td:nth-child(2){
+     display:none;
+   }
+}
+
   
