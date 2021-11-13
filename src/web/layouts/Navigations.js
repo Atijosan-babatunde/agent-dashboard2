@@ -1,8 +1,10 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
+import styled from 'styled-components';
 
 
 export const Header = () => {
+ 
     return(
         <div className="side-menu" id="side-menu">
         <div className="brand-name">
@@ -16,6 +18,7 @@ export const Header = () => {
               <p className="profile-mail">MY ACCOUNT</p>
             </div>
           </div>
+         
           <ul>
             <li className="menu-item">
               <Link to="/" className="menu-link active">
@@ -77,13 +80,24 @@ export const Header = () => {
               </Link>
             </li>
           </ul>
-        </div>
+         
+       
+       
 
 
       
-    </div> 
+             
+     
+
+      
+    </div>
+     </div>
+     
+      
        
       
              
     )
 }
+
+    

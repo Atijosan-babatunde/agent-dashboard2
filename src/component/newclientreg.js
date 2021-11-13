@@ -45,7 +45,7 @@ export function NewClientRegBody(){
                   <i class="fas fa-check"></i>
                   <span>Trip Details</span>
                 </div>
-                <div class="tripcap active">
+                <div class="tripcap active1">
                   <h1>2</h1>
                   <span>Customer Infomation</span>
                 </div>
@@ -55,12 +55,12 @@ export function NewClientRegBody(){
                 </div>
               </div>
               <div class="tripForm">
-                <div class="row mt-3">
+                <div class="row ">
                     <div class="tag-form">
                         <form action="#">
                             <div class="row mb-3">
                                 <div class="col-md-6 mt-2">
-                                    <label for="inputfirstName" class="form-label ">FIRST
+                                    <label for="inputfirstName" class="form-label3 ">FIRST
                                         NAME</label>
                                         <div class="selectbutton">
                                             <input type="text" class=" px-3"
@@ -69,7 +69,7 @@ export function NewClientRegBody(){
                                     
                                 </div>
                                 <div class="col-md-6 mt-2">
-                                    <label for="inputLastName" class="form-label">LAST
+                                    <label for="inputLastName" class="form-label3">LAST
                                         NAME</label>
                                         <div class="selectbutton">
                                             <input type="text" class=" px-3"
@@ -79,7 +79,7 @@ export function NewClientRegBody(){
                                 </div>
                             </div>
                             <div class="col mt-2 mb-3">
-                                <label for="inputAddress" class="form-label mt-3">ADDRESS</label>
+                                <label for="inputAddress" class="form-label3 mt-3">ADDRESS</label>
                                         <div class="selectbutton">
                                 <input type="text" class="selectionbutton px-3" id="inputAddress"
                                     placeholder="Enter Address" />
@@ -87,7 +87,7 @@ export function NewClientRegBody(){
                             </div>
                             <div class="row mb-4">
                                 <div class="col-md-6 mt-2">
-                                    <label for="inputCountry" class="form-label mt-3">COUNTRY</label>
+                                    <label for="inputCountry" class="form-label3 mt-3">COUNTRY</label>
                                         <div class="selectbutton">
                                     <select id="inputCountry" class="selectionbutton text-light text-dark">
                                         <option selected>Select Country</option>
@@ -96,7 +96,7 @@ export function NewClientRegBody(){
                                         </div>
                                 </div>
                                 <div class="col-md-6 mt-2">
-                                    <label for="inputCountry" class="form-label mt-3">CITY</label>
+                                    <label for="inputCountry" class="form-label3 mt-3">CITY</label>
                                         <div class="selectbutton">
                                     <select id="inputCity" class="selectionbutton text-light text-dark">
                                         <option selected>Select City</option>
@@ -107,14 +107,14 @@ export function NewClientRegBody(){
                             </div>
                             <div class="row">
                                 <div class="col-md-6 mt-2">
-                                    <label for="inputEmail" class="form-label mt-3">CUSTOMER EMAIL</label>
+                                    <label for="inputEmail" class="form-label3 mt-3">CUSTOMER EMAIL</label>
                                         <div class="selectbutton">
                                     <input type="text" class="selectionbutton px-3" id="inputEmail"
                                         placeholder="Enter Email Address"/>
                                         </div>
                                 </div>
                                 <div class="col-md-6 mt-2">
-                                    <label for="inputPhone" class="form-label mt-3">CUSTOMER PHONE
+                                    <label for="inputPhone" class="form-label3 mt-3">CUSTOMER PHONE
                                         NUMBER</label>
                                         <div class="selectbutton">
                                     <input type="text" class="selectionbutton px-3" id="inputPhone"

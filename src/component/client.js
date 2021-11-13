@@ -47,7 +47,7 @@ export function SecondPage(){
           </div>
           <div
              className="col-md-12 ro"
-            style={{width:'90%', margin:'auto', padding: '2em'}}
+            style={{width:'93%', margin:'auto', padding: '2em'}}
           >
           <div  className="row">
                 <div  className="col-12">
@@ -62,6 +62,7 @@ export function SecondPage(){
                   </div>
                 </div>
               </div>
+              <div id="flip-scroll">
             <table id="datatableDefault"  className="table text-nowrap w-200">
               
 
@@ -240,6 +241,7 @@ export function SecondPage(){
                 </tr>
               </tbody>
             </table>
+            </div>
                <div  className="pages">
             <p  className="down">row per page 10</p>
             <p  className="down">1-10 of 276</p>

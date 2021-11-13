@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 import "./style.css";
 
 
-export function FirstPage(){
+export function FirstPage(burgerStatus, SetBurgerStatus){
+  
     return(
         <BaseContainer>
            <div className="top">
@@ -16,7 +17,7 @@ export function FirstPage(){
               <div  className="nav">
                 <div  className="user text-end">
                   <div  className="mobilenav">
-                    <img src="img/bars-solid.svg" id="hamburger" alt="" class="bar"/>
+                    <img src="img/bars-solid.svg" id="hamburger" alt="" class="bar" />
                     <Link to="/"  className="ogo">
                       <img src="img/Logotype.png" alt=""  className="" />
                     </Link>
@@ -34,7 +35,7 @@ export function FirstPage(){
         <div className="row">
           <div
             className="col-md-12"
-            style={{marginTop: '6.1em', paddingLeft: '1em', marginBottom: '1em'}}
+            style={{marginTop: '6.1em', paddingLeft: '2em',paddingRight: '2em', marginBottom: '1em'}}
           >
             <div id="content" className="app-content">
               <h1 className="page-header mb-2 mt-3">

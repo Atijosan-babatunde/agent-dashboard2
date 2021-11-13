@@ -47,7 +47,7 @@ export function SocialBody(){
                   <i class="fas fa-check"></i>
                   <span>Customer Infomation</span>
                 </div>
-                <div class="tripcap active">
+                <div class="tripcap active1">
                   <h1>3</h1>
                   <span>Share Application Link</span>
                 </div>
@@ -59,7 +59,7 @@ export function SocialBody(){
                 </h4>
 
                 <div class="appLink">
-                  <label for="app">Application Link</label>
+                  <label for="app">APPLICATION LINK</label>
                   <div class="selectbutton">
                     <input
                       style={{width: '100%'}}

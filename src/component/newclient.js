@@ -41,7 +41,7 @@ export function NewClientBody(){
 
             <div class="trip">
               <div class="tripObj">
-                <div class="tripcap active">
+                <div class="tripcap active1">
                   <h1>1</h1>
                   <span>Trip Details</span>
                 </div>
@@ -70,9 +70,9 @@ export function NewClientBody(){
                       <label for="selet">FROM</label>
                       <div class="selectbutton">
                         <select name="booking" id="">
-                          <option value="">Nigeria </option>
-                          <option value="">Ghana</option>
-                          <option value="">NYC</option>
+                          <option value="">Select City</option>
+                          <option value="">Select City</option>
+                          <option value="">Select City</option>
                       </select>
                       </div>
                       
@@ -86,7 +86,7 @@ export function NewClientBody(){
                                     <div class="select">
                       <label for="selet">COST OF TRIP</label>
                       <div class="selectbutton">
-                          <input type="number" placeholder="Amount"></input>
+                          <input type="number" placeholder="Enter Amount"></input>
                       </div>
 
                    
@@ -97,9 +97,9 @@ export function NewClientBody(){
                       <label for="selet">TRIP TYPE</label>
                       <div class="selectbutton">
                         <select name="booking" id="">
-                          <option value="">Flight Ticket</option>
-                          <option value="">Flight Ticket</option>
-                          <option value="">Flight Ticket</option>
+                          <option value="">Round Trip</option>
+                          <option value="">Round Trip</option>
+                          <option value="">Round Trip</option>
                       </select>
                       </div>
                       
@@ -108,9 +108,9 @@ export function NewClientBody(){
                       <label for="selet">TO</label>
                       <div class="selectbutton">
                         <select name="booking" id="">
-                          <option value="">Nigeria </option>
-                          <option value="">Ghana</option>
-                          <option value="">NYC</option>
+                          <option value="">Select City</option>
+                          <option value="">Select City</option>
+                          <option value="">Select City</option>
                       </select>
                       </div>
                   </div>

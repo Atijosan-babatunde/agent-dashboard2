@@ -15,6 +15,13 @@ import SignUp from '../page/SignUp';
 import NewClientBody from '../page/NewClient';
 import ForgetPass from '../page/ForgetPass';
 import NewPass from '../page/NewPass';
+import CreateAccount from '../page/CreateAccount';
+import Verification from '../page/Verification';
+import UploadDocument from '../page/UploadDocument';
+import DocumentUploaded from '../page/DocumentUploaded';
+import EnterAccountDetails from '../page/EnterAccountDetails';
+import UploadBusinessInformation from '../page/UploadBusinessInformation';
+import UploadBusinessDocument from '../page/UploadBusinessDocument';
 function Approuter(){
     const history = createBrowserHistory();
     
@@ -32,6 +39,13 @@ function Approuter(){
                 <Route path ='/signup/' exact component ={SignUp}/>
                 <Route path ='/forgetpass/' exact component ={ForgetPass}/>
                 <Route path ='/newpass/' exact component ={NewPass}/>
+                <Route path ='/createaccount/' exact component ={CreateAccount}/>
+                <Route path ='/verification/' exact component ={Verification}/>
+                <Route path ='/uploaddocument/' exact component ={UploadDocument}/>
+                <Route path ='/documentuploaded/' exact component ={DocumentUploaded}/>
+                <Route path ='/enteraccountdetails/' exact component ={EnterAccountDetails}/>
+                <Route path ='/uploadbusinessinformation/' exaxt component ={UploadBusinessInformation}/>
+                <Route path ='/uploadbusinessdocument/' exaxt component ={UploadBusinessDocument}/>
             </Switch>
         </Router>
     )

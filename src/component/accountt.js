@@ -30,7 +30,7 @@ export function FourthPage(){
         </div>
       </div>
 
-      <div class="container">
+      <div class="container ">
         <div className="row ">
           <div className="mainTop">
             <div className="ticket">
@@ -41,9 +41,9 @@ export function FourthPage(){
           </div>
           <div
             className="col-md-12 ro"
-            style={{width:'90%', margin:'auto', padding: '2em'}}
+            style={{width:'92%', margin:'auto', padding: '2em'}}
           >
-          <div className="container">
+          <div className="container roland">
             <div className="row">
                 <div className="" >
                     <div className="tab-pane mt-3 ms-2 " id="pills-verification" role="tabpanel"
@@ -60,6 +60,7 @@ export function FourthPage(){
                                         data-bs-target="#pills-businessinfo" type="button" role="tab"
                                         aria-controls="pills-businessinfo" aria-selected="false">BUSINESS INFORMATION</button>
                                 </li>
+                                
                             </ul>
 
 
@@ -74,7 +75,7 @@ export function FourthPage(){
                                             
                                         </div>
                                         <div className="col-md-4">
-                                            <button className="grow6 "><span className="top-p3">Update business information</span></button>
+                                            <button className="grow6 "><Link to="/uploadbusinessinformation"><span className="top-p3">Update business information</span></Link></button>
                                         </div>
                                     </div>
                                     
@@ -82,12 +83,12 @@ export function FourthPage(){
                                           <div className="col-md-12">
                                                <div className="row">
                                                 <div className="col-md-6">
-                                                    <p>BUSINESS NAME</p>
-                                                    <span>Johnson's Agency</span>
+                                                    <p className="how">BUSINESS NAME</p>
+                                                    <span className="how-span">Johnson's Agency</span>
                                                 </div>
                                                 <div className="col-md-6">
-                                                    <p>RC NUMBER</p>
-                                                    <span>2039694076</span>
+                                                    <p className="how">RC NUMBER</p>
+                                                    <span className="how-span">2039694076</span>
                                                 </div>
                                                 </div>
                                            </div>
@@ -95,7 +96,7 @@ export function FourthPage(){
                                     </div>
                                 
 
-                                    <h5 className="mb-3 mt-5">Company Documents</h5>
+                                    <h5 className="how-boss mb-5 mt-5">Company Documents</h5>
 
 
                                     <div className="row">
@@ -103,12 +104,12 @@ export function FourthPage(){
                                               
                                                <div className="row">
                                                 <div className="col-md-6">
-                                                    <p>DOCUMENT1</p>
-                                                    <span>CAC-Document.pdf <i className="far fa-eye"></i></span>
+                                                    <p className="how">DOCUMENT1</p>
+                                                    <span className="how-span">CAC-Document.pdf <i className="far fa-eye"></i></span>
                                                 </div>
                                                 <div className="col-md-6">
-                                                    <p>DOCUMENT2</p>
-                                                    <span>CAC-Document.pdf <i className="far fa-eye"></i></span>
+                                                    <p className="how">DOCUMENT2</p>
+                                                    <span className="how-span">CAC-Document.pdf <i className="far fa-eye"></i></span>
                                                 </div>
                                                 </div>
                                            </div>
@@ -122,8 +123,21 @@ export function FourthPage(){
                                 </div>
 
                                 
+                              
+                               
+
+                                   
+                       
+
+
+
+
+
+
+
+
                            
-                              <div className="tab-pane mt-3 ms-2 fade " id="pills-personal" role="tabpanel"
+                               <div className="tab-pane mt-3 ms-2 fade " id="pills-personal" role="tabpanel"
                                   aria-labelledby="pills-personal-tab">
 
                                   <div className="col-3 mt-1 mb-1">
