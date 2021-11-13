@@ -1202,7 +1202,7 @@ padding-left:.60em;
 color: #000000;
 }
 .tripform1 {
-  width: 100%;
+  width: 110%;
   padding: 10px;
 }
 .tripform2 {
@@ -2294,6 +2294,16 @@ border-radius: 12px;
  padding-top:2px;
  padding-bottom:2px;
   /* padding: 3px; */
+}
+.inner9 {
+  border: 1px solid #D8D8D8;
+  box-sizing: border-box;
+
+  border-radius: 7px;
+  width: 100%;
+ padding-top:2px;
+ padding-bottom:2px;
+  padding: 13px;
 }
 .form-control1{
   outline: none;

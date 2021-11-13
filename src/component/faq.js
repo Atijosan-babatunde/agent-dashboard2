@@ -46,7 +46,7 @@ export function FifthPage(){
 
          <div class="row">
            <div class="col-md-6">
-             <div class="inner1">
+             <div class="inner9">
           <div class="faqMain">
             <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
              <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -54,7 +54,7 @@ export function FifthPage(){
              </p>
           </div>
         </div>
-        <div class="inner1 mt-3">
+        <div class="inner9 mt-3">
           <div class="faqMain">
             <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
              <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -62,7 +62,7 @@ export function FifthPage(){
              </p>
           </div>
         </div>
-        <div class="inner1 mt-3">
+        <div class="inner9 mt-3">
           <div class="faqMain">
             <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
              <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -70,7 +70,7 @@ export function FifthPage(){
              </p>
           </div>
         </div>
-        <div class="inner1 mt-3">
+        <div class="inner9 mt-3">
           <div class="faqMain">
             <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
              <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -78,7 +78,7 @@ export function FifthPage(){
              </p>
           </div>
         </div>
-        <div class="inner1 mt-3">
+        <div class="inner9 mt-3">
           <div class="faqMain">
             <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
              <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -86,7 +86,7 @@ export function FifthPage(){
              </p>
           </div>
         </div>
-        <div class="inner1 mt-3">
+        <div class="inner9 mt-3">
           <div class="faqMain">
             <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
              <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -99,7 +99,7 @@ export function FifthPage(){
 
 
           <div class="col-md-6">
-            <div class="inner1">
+            <div class="inner9">
             <div class="faqMain">
               <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
                <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -107,7 +107,7 @@ export function FifthPage(){
                </p>
             </div>
             </div>
-            <div class="inner1 mt-3">
+            <div class="inner9 mt-3">
               <div class="faqMain">
                 <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
                  <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -115,7 +115,7 @@ export function FifthPage(){
                  </p>
               </div>
             </div>
-            <div class="inner1 mt-3">
+            <div class="inner9 mt-3">
               <div class="faqMain">
                 <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
                  <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -123,7 +123,7 @@ export function FifthPage(){
                  </p>
               </div>
             </div>
-            <div class="inner1 mt-3">
+            <div class="inner9 mt-3">
               <div class="faqMain">
                 <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
                  <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -131,7 +131,7 @@ export function FifthPage(){
                  </p>
               </div>
             </div>
-            <div class="inner1 mt-3">
+            <div class="inner9 mt-3">
               <div class="faqMain">
                 <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
                  <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
@@ -139,7 +139,7 @@ export function FifthPage(){
                  </p>
               </div>
             </div>
-             <div class="inner1 mt-3">
+             <div class="inner9 mt-3">
           <div class="faqMain">
             <h3 class="faq-head">How do i make money as an agent on Goflex ?<button class="plus">+</button></h3>
              <p class="comment">loremn knvjnviniunjfiniuniud idniundiufibifkdfiub idjnciunsiunsdisdvuiviubivubhbvuibvviubiuwbifubuifb idniuibji
